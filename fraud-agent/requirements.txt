@@ -1,0 +1,17 @@
+# Core WebRTC & Firebase
+aiortc
+firebase-admin
+python-dotenv
+
+edge-tts
+
+# MP3 → PCM decoding
+miniaudio   # pure Python, no ffmpeg needed
+pydub       # optional second decoder (needs ffmpeg on PATH)
+
+# dynamic replies
+groq
+
+# Audio processing
+numpy
+av

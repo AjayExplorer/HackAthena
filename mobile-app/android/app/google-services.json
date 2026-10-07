@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040647547997",
+    "project_id": "hackathena-a7103",
+    "storage_bucket": "hackathena-a7103.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040647547997:android:d4fe513e24602d424a71b4",
+        "android_client_info": {
+          "package_name": "com.example.mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4CVzRNdCXOYsxa6p8m8AdqeJYUiG4RIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

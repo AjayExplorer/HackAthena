@@ -1,0 +1,39 @@
+# Virtual Environments
+venv/
+venv2/
+env/
+.venv/
+ENV/
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Local secret backups
+*.backup
+*.real.json
+serviceAccountKey.json.backup
+
+# Log files and outputs
+*.log
+pip_out.txt
+
+# Flutter & Dart artifacts
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
